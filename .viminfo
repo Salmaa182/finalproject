@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1579541515,,"wq!"
+|2,0,1579542136,,"wq!"
 :q
 |2,0,1579541232,,"q"
 :wq
@@ -29,32 +29,48 @@
 # Registers:
 
 # File marks:
-'0  3  27  ~/.gitconfig
-|4,48,3,27,1579541515,"~/.gitconfig"
-'1  1  0  ~/config
-|4,49,1,0,1579541232,"~/config"
-'2  1  0  ~/index.html
-|4,50,1,0,1579481291,"~/index.html"
-'3  5  2  ~/git/git1/helloworld.java
-|4,51,5,2,1579477531,"~/git/git1/helloworld.java"
-'4  1  0  ~/config
-|4,52,1,0,1579476104,"~/config"
-'5  1  0  ~/cinfig
-|4,53,1,0,1579476089,"~/cinfig"
-'6  2  16  ~/.gitconfig
-|4,54,2,16,1579473971,"~/.gitconfig"
-'7  2  16  ~/.gitconfig
-|4,55,2,16,1579473971,"~/.gitconfig"
+'0  9  6  ~/index.html
+|4,48,9,6,1579542136,"~/index.html"
+'1  3  27  ~/.gitconfig
+|4,49,3,27,1579541515,"~/.gitconfig"
+'2  1  0  ~/config
+|4,50,1,0,1579541232,"~/config"
+'3  1  0  ~/index.html
+|4,51,1,0,1579481291,"~/index.html"
+'4  1  0  ~/index.html
+|4,52,1,0,1579481291,"~/index.html"
+'5  5  2  ~/git/git1/helloworld.java
+|4,53,5,2,1579477531,"~/git/git1/helloworld.java"
+'6  1  0  ~/config
+|4,54,1,0,1579476104,"~/config"
+'7  1  0  ~/cinfig
+|4,55,1,0,1579476089,"~/cinfig"
+'8  2  16  ~/.gitconfig
+|4,56,2,16,1579473971,"~/.gitconfig"
+'9  2  16  ~/.gitconfig
+|4,57,2,16,1579473971,"~/.gitconfig"
 
 # Jumplist (newest first):
+-'  9  6  ~/index.html
+|4,39,9,6,1579542136,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1579542126,"~/index.html"
 -'  3  27  ~/.gitconfig
 |4,39,3,27,1579541515,"~/.gitconfig"
+-'  3  27  ~/.gitconfig
+|4,39,3,27,1579541515,"~/.gitconfig"
+-'  2  16  ~/.gitconfig
+|4,39,2,16,1579541476,"~/.gitconfig"
 -'  2  16  ~/.gitconfig
 |4,39,2,16,1579541476,"~/.gitconfig"
 -'  1  0  ~/config
 |4,39,1,0,1579541232,"~/config"
 -'  1  0  ~/config
 |4,39,1,0,1579541232,"~/config"
+-'  1  0  ~/config
+|4,39,1,0,1579541232,"~/config"
+-'  1  0  ~/config
+|4,39,1,0,1579541232,"~/config"
 -'  1  0  ~/index.html
 |4,39,1,0,1579481291,"~/index.html"
 -'  1  0  ~/index.html
@@ -79,6 +95,22 @@
 |4,39,5,2,1579477531,"~/git/git1/helloworld.java"
 -'  5  2  ~/git/git1/helloworld.java
 |4,39,5,2,1579477531,"~/git/git1/helloworld.java"
+-'  5  2  ~/git/git1/helloworld.java
+|4,39,5,2,1579477531,"~/git/git1/helloworld.java"
+-'  5  2  ~/git/git1/helloworld.java
+|4,39,5,2,1579477531,"~/git/git1/helloworld.java"
+-'  5  2  ~/git/git1/helloworld.java
+|4,39,5,2,1579477531,"~/git/git1/helloworld.java"
+-'  5  2  ~/git/git1/helloworld.java
+|4,39,5,2,1579477531,"~/git/git1/helloworld.java"
+-'  5  2  ~/git/git1/helloworld.java
+|4,39,5,2,1579477531,"~/git/git1/helloworld.java"
+-'  5  2  ~/git/git1/helloworld.java
+|4,39,5,2,1579477531,"~/git/git1/helloworld.java"
+-'  5  2  ~/git/git1/helloworld.java
+|4,39,5,2,1579477531,"~/git/git1/helloworld.java"
+-'  5  2  ~/git/git1/helloworld.java
+|4,39,5,2,1579477531,"~/git/git1/helloworld.java"
 -'  1  0  ~/git/git1/helloworld.java
 |4,39,1,0,1579477418,"~/git/git1/helloworld.java"
 -'  1  0  ~/git/git1/helloworld.java
@@ -95,6 +127,38 @@
 |4,39,1,0,1579477418,"~/git/git1/helloworld.java"
 -'  1  0  ~/git/git1/helloworld.java
 |4,39,1,0,1579477418,"~/git/git1/helloworld.java"
+-'  1  0  ~/git/git1/helloworld.java
+|4,39,1,0,1579477418,"~/git/git1/helloworld.java"
+-'  1  0  ~/git/git1/helloworld.java
+|4,39,1,0,1579477418,"~/git/git1/helloworld.java"
+-'  1  0  ~/git/git1/helloworld.java
+|4,39,1,0,1579477418,"~/git/git1/helloworld.java"
+-'  1  0  ~/git/git1/helloworld.java
+|4,39,1,0,1579477418,"~/git/git1/helloworld.java"
+-'  1  0  ~/git/git1/helloworld.java
+|4,39,1,0,1579477418,"~/git/git1/helloworld.java"
+-'  1  0  ~/git/git1/helloworld.java
+|4,39,1,0,1579477418,"~/git/git1/helloworld.java"
+-'  1  0  ~/git/git1/helloworld.java
+|4,39,1,0,1579477418,"~/git/git1/helloworld.java"
+-'  1  0  ~/git/git1/helloworld.java
+|4,39,1,0,1579477418,"~/git/git1/helloworld.java"
+-'  1  0  ~/config
+|4,39,1,0,1579476104,"~/config"
+-'  1  0  ~/config
+|4,39,1,0,1579476104,"~/config"
+-'  1  0  ~/config
+|4,39,1,0,1579476104,"~/config"
+-'  1  0  ~/config
+|4,39,1,0,1579476104,"~/config"
+-'  1  0  ~/config
+|4,39,1,0,1579476104,"~/config"
+-'  1  0  ~/config
+|4,39,1,0,1579476104,"~/config"
+-'  1  0  ~/config
+|4,39,1,0,1579476104,"~/config"
+-'  1  0  ~/config
+|4,39,1,0,1579476104,"~/config"
 -'  1  0  ~/config
 |4,39,1,0,1579476104,"~/config"
 -'  1  0  ~/config
@@ -175,80 +239,27 @@
 |4,39,1,0,1579476089,"~/cinfig"
 -'  1  0  ~/cinfig
 |4,39,1,0,1579476089,"~/cinfig"
--'  2  16  ~/.gitconfig
-|4,39,2,16,1579473971,"~/.gitconfig"
--'  2  16  ~/.gitconfig
-|4,39,2,16,1579473971,"~/.gitconfig"
--'  2  16  ~/.gitconfig
-|4,39,2,16,1579473971,"~/.gitconfig"
--'  2  16  ~/.gitconfig
-|4,39,2,16,1579473971,"~/.gitconfig"
--'  2  16  ~/.gitconfig
-|4,39,2,16,1579473971,"~/.gitconfig"
--'  2  16  ~/.gitconfig
-|4,39,2,16,1579473971,"~/.gitconfig"
--'  2  16  ~/.gitconfig
-|4,39,2,16,1579473971,"~/.gitconfig"
--'  2  16  ~/.gitconfig
-|4,39,2,16,1579473971,"~/.gitconfig"
--'  2  16  ~/.gitconfig
-|4,39,2,16,1579473971,"~/.gitconfig"
--'  2  16  ~/.gitconfig
-|4,39,2,16,1579473971,"~/.gitconfig"
--'  2  16  ~/.gitconfig
-|4,39,2,16,1579473971,"~/.gitconfig"
--'  2  16  ~/.gitconfig
-|4,39,2,16,1579473971,"~/.gitconfig"
--'  2  16  ~/.gitconfig
-|4,39,2,16,1579473971,"~/.gitconfig"
--'  2  16  ~/.gitconfig
-|4,39,2,16,1579473971,"~/.gitconfig"
--'  2  16  ~/.gitconfig
-|4,39,2,16,1579473971,"~/.gitconfig"
--'  2  16  ~/.gitconfig
-|4,39,2,16,1579473971,"~/.gitconfig"
--'  2  16  ~/.gitconfig
-|4,39,2,16,1579473971,"~/.gitconfig"
--'  2  16  ~/.gitconfig
-|4,39,2,16,1579473971,"~/.gitconfig"
--'  2  16  ~/.gitconfig
-|4,39,2,16,1579473971,"~/.gitconfig"
--'  2  16  ~/.gitconfig
-|4,39,2,16,1579473971,"~/.gitconfig"
--'  2  16  ~/.gitconfig
-|4,39,2,16,1579473971,"~/.gitconfig"
--'  2  16  ~/.gitconfig
-|4,39,2,16,1579473971,"~/.gitconfig"
--'  2  16  ~/.gitconfig
-|4,39,2,16,1579473971,"~/.gitconfig"
--'  2  16  ~/.gitconfig
-|4,39,2,16,1579473971,"~/.gitconfig"
--'  2  16  ~/.gitconfig
-|4,39,2,16,1579473971,"~/.gitconfig"
--'  2  16  ~/.gitconfig
-|4,39,2,16,1579473971,"~/.gitconfig"
--'  2  16  ~/.gitconfig
-|4,39,2,16,1579473971,"~/.gitconfig"
--'  2  16  ~/.gitconfig
-|4,39,2,16,1579473971,"~/.gitconfig"
--'  2  16  ~/.gitconfig
-|4,39,2,16,1579473971,"~/.gitconfig"
--'  2  16  ~/.gitconfig
-|4,39,2,16,1579473971,"~/.gitconfig"
--'  2  16  ~/.gitconfig
-|4,39,2,16,1579473971,"~/.gitconfig"
--'  2  16  ~/.gitconfig
-|4,39,2,16,1579473971,"~/.gitconfig"
--'  1  0  ~/.gitconfig
-|4,39,1,0,1579473956,"~/.gitconfig"
--'  1  0  ~/.gitconfig
-|4,39,1,0,1579473956,"~/.gitconfig"
--'  1  0  ~/.gitconfig
-|4,39,1,0,1579473956,"~/.gitconfig"
--'  1  0  ~/.gitconfig
-|4,39,1,0,1579473956,"~/.gitconfig"
+-'  1  0  ~/cinfig
+|4,39,1,0,1579476089,"~/cinfig"
+-'  1  0  ~/cinfig
+|4,39,1,0,1579476089,"~/cinfig"
+-'  1  0  ~/cinfig
+|4,39,1,0,1579476089,"~/cinfig"
+-'  1  0  ~/cinfig
+|4,39,1,0,1579476089,"~/cinfig"
+-'  1  0  ~/cinfig
+|4,39,1,0,1579476089,"~/cinfig"
+-'  1  0  ~/cinfig
+|4,39,1,0,1579476089,"~/cinfig"
 
 # History of marks within files (newest to oldest):
+
+> ~/index.html
+	*	1579542132	0
+	"	9	6
+	^	9	7
+	.	9	6
+	+	9	6
 
 > ~/.gitconfig
 	*	1579541511	0
@@ -262,11 +273,6 @@
 > ~/config
 	*	1579541231	0
 	"	1	0
-
-> ~/index.html
-	*	1579481289	0
-	"	1	0
-	^	1	0
 
 > ~/git/git1/helloworld.java
 	*	1579477530	0
