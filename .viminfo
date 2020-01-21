@@ -11,12 +11,12 @@
 # hlsearch on (H) or off (h):
 ~h
 # Command Line History (newest to oldest):
-:wq!
-|2,0,1579628509,,"wq!"
-:q
-|2,0,1579541232,,"q"
 :wq
-|2,0,1579481291,,"wq"
+|2,0,1579629822,,"wq"
+:q
+|2,0,1579629717,,"q"
+:'<,'>:wq!
+|2,0,1579629702,,"'<,'>:wq!"
 
 # Search String History (newest to oldest):
 
@@ -27,285 +27,48 @@
 # Debug Line History (newest to oldest):
 
 # Registers:
-""1	LINE	0
-	<!doctype html>
-|3,1,1,1,1,0,1579628494,"<!doctype html>"
-"2	LINE	0
-	<html>
-|3,0,2,1,1,0,1579628494,"<html>"
-"3	LINE	0
-	  <head>
-|3,0,3,1,1,0,1579628493,"  <head>"
-"4	LINE	0
-	    <title>This is the title of the webpage!</title>
-|3,0,4,1,1,0,1579628492,"    <title>This is the title of the webpage!</title>"
-"5	LINE	0
-	  </head>
-|3,0,5,1,1,0,1579628492,"  </head>"
-"6	LINE	0
-	  <body>
-|3,0,6,1,1,0,1579628491,"  <body>"
-"7	LINE	0
-	    <p>This is an example paragraph. Anything in the <strong>body</strong> tag will appear on the page, just like this <strong>p</strong> tag and its contents.</p>
-|3,0,7,1,1,0,1579628491,"    <p>This is an example paragraph. Anything in the <strong>body</strong> tag will appear on the page, just like this <strong>p</strong> tag and its contents.</p>"
-"8	LINE	0
-	 d>
-|3,0,8,1,1,0,1579628490," d>"
 
 # File marks:
-'0  1  27  ~/index.html
-|4,48,1,27,1579628509,"~/index.html"
-'1  9  6  ~/index.html
-|4,49,9,6,1579542136,"~/index.html"
-'2  3  27  ~/.gitconfig
-|4,50,3,27,1579541515,"~/.gitconfig"
-'3  1  0  ~/config
-|4,51,1,0,1579541232,"~/config"
-'4  1  0  ~/index.html
-|4,52,1,0,1579481291,"~/index.html"
-'5  1  0  ~/index.html
-|4,53,1,0,1579481291,"~/index.html"
-'6  1  0  ~/index.html
-|4,54,1,0,1579481291,"~/index.html"
-'7  1  0  ~/index.html
-|4,55,1,0,1579481291,"~/index.html"
-'8  5  2  ~/git/git1/helloworld.java
-|4,56,5,2,1579477531,"~/git/git1/helloworld.java"
-'9  1  0  ~/config
-|4,57,1,0,1579476104,"~/config"
+'0  1  0  ~/index.html
+|4,48,1,0,1579629822,"~/index.html"
+'1  1  0  ~/viminfo
+|4,49,1,0,1579629717,"~/viminfo"
+'2  1  0  ~/.viminfo
+|4,50,1,0,1579629702,"~/.viminfo"
 
 # Jumplist (newest first):
--'  1  27  ~/index.html
-|4,39,1,27,1579628509,"~/index.html"
--'  9  6  ~/index.html
-|4,39,9,6,1579542136,"~/index.html"
 -'  1  0  ~/index.html
-|4,39,1,0,1579542126,"~/index.html"
--'  3  27  ~/.gitconfig
-|4,39,3,27,1579541515,"~/.gitconfig"
--'  3  27  ~/.gitconfig
-|4,39,3,27,1579541515,"~/.gitconfig"
--'  3  27  ~/.gitconfig
-|4,39,3,27,1579541515,"~/.gitconfig"
--'  3  27  ~/.gitconfig
-|4,39,3,27,1579541515,"~/.gitconfig"
--'  2  16  ~/.gitconfig
-|4,39,2,16,1579541476,"~/.gitconfig"
--'  2  16  ~/.gitconfig
-|4,39,2,16,1579541476,"~/.gitconfig"
--'  2  16  ~/.gitconfig
-|4,39,2,16,1579541476,"~/.gitconfig"
--'  2  16  ~/.gitconfig
-|4,39,2,16,1579541476,"~/.gitconfig"
--'  1  0  ~/config
-|4,39,1,0,1579541232,"~/config"
--'  1  0  ~/config
-|4,39,1,0,1579541232,"~/config"
--'  1  0  ~/config
-|4,39,1,0,1579541232,"~/config"
--'  1  0  ~/config
-|4,39,1,0,1579541232,"~/config"
--'  1  0  ~/config
-|4,39,1,0,1579541232,"~/config"
--'  1  0  ~/config
-|4,39,1,0,1579541232,"~/config"
--'  1  0  ~/config
-|4,39,1,0,1579541232,"~/config"
--'  1  0  ~/config
-|4,39,1,0,1579541232,"~/config"
--'  1  0  ~/index.html
-|4,39,1,0,1579481291,"~/index.html"
--'  1  0  ~/index.html
-|4,39,1,0,1579481291,"~/index.html"
--'  1  0  ~/index.html
-|4,39,1,0,1579481291,"~/index.html"
--'  1  0  ~/index.html
-|4,39,1,0,1579481291,"~/index.html"
--'  5  2  ~/git/git1/helloworld.java
-|4,39,5,2,1579477531,"~/git/git1/helloworld.java"
--'  5  2  ~/git/git1/helloworld.java
-|4,39,5,2,1579477531,"~/git/git1/helloworld.java"
--'  5  2  ~/git/git1/helloworld.java
-|4,39,5,2,1579477531,"~/git/git1/helloworld.java"
--'  5  2  ~/git/git1/helloworld.java
-|4,39,5,2,1579477531,"~/git/git1/helloworld.java"
--'  5  2  ~/git/git1/helloworld.java
-|4,39,5,2,1579477531,"~/git/git1/helloworld.java"
--'  5  2  ~/git/git1/helloworld.java
-|4,39,5,2,1579477531,"~/git/git1/helloworld.java"
--'  5  2  ~/git/git1/helloworld.java
-|4,39,5,2,1579477531,"~/git/git1/helloworld.java"
--'  5  2  ~/git/git1/helloworld.java
-|4,39,5,2,1579477531,"~/git/git1/helloworld.java"
--'  5  2  ~/git/git1/helloworld.java
-|4,39,5,2,1579477531,"~/git/git1/helloworld.java"
--'  5  2  ~/git/git1/helloworld.java
-|4,39,5,2,1579477531,"~/git/git1/helloworld.java"
--'  5  2  ~/git/git1/helloworld.java
-|4,39,5,2,1579477531,"~/git/git1/helloworld.java"
--'  5  2  ~/git/git1/helloworld.java
-|4,39,5,2,1579477531,"~/git/git1/helloworld.java"
--'  5  2  ~/git/git1/helloworld.java
-|4,39,5,2,1579477531,"~/git/git1/helloworld.java"
--'  5  2  ~/git/git1/helloworld.java
-|4,39,5,2,1579477531,"~/git/git1/helloworld.java"
--'  5  2  ~/git/git1/helloworld.java
-|4,39,5,2,1579477531,"~/git/git1/helloworld.java"
--'  5  2  ~/git/git1/helloworld.java
-|4,39,5,2,1579477531,"~/git/git1/helloworld.java"
--'  5  2  ~/git/git1/helloworld.java
-|4,39,5,2,1579477531,"~/git/git1/helloworld.java"
--'  5  2  ~/git/git1/helloworld.java
-|4,39,5,2,1579477531,"~/git/git1/helloworld.java"
--'  5  2  ~/git/git1/helloworld.java
-|4,39,5,2,1579477531,"~/git/git1/helloworld.java"
--'  5  2  ~/git/git1/helloworld.java
-|4,39,5,2,1579477531,"~/git/git1/helloworld.java"
--'  5  2  ~/git/git1/helloworld.java
-|4,39,5,2,1579477531,"~/git/git1/helloworld.java"
--'  5  2  ~/git/git1/helloworld.java
-|4,39,5,2,1579477531,"~/git/git1/helloworld.java"
--'  5  2  ~/git/git1/helloworld.java
-|4,39,5,2,1579477531,"~/git/git1/helloworld.java"
--'  5  2  ~/git/git1/helloworld.java
-|4,39,5,2,1579477531,"~/git/git1/helloworld.java"
--'  5  2  ~/git/git1/helloworld.java
-|4,39,5,2,1579477531,"~/git/git1/helloworld.java"
--'  5  2  ~/git/git1/helloworld.java
-|4,39,5,2,1579477531,"~/git/git1/helloworld.java"
--'  5  2  ~/git/git1/helloworld.java
-|4,39,5,2,1579477531,"~/git/git1/helloworld.java"
--'  5  2  ~/git/git1/helloworld.java
-|4,39,5,2,1579477531,"~/git/git1/helloworld.java"
--'  5  2  ~/git/git1/helloworld.java
-|4,39,5,2,1579477531,"~/git/git1/helloworld.java"
--'  5  2  ~/git/git1/helloworld.java
-|4,39,5,2,1579477531,"~/git/git1/helloworld.java"
--'  5  2  ~/git/git1/helloworld.java
-|4,39,5,2,1579477531,"~/git/git1/helloworld.java"
--'  5  2  ~/git/git1/helloworld.java
-|4,39,5,2,1579477531,"~/git/git1/helloworld.java"
--'  1  0  ~/git/git1/helloworld.java
-|4,39,1,0,1579477418,"~/git/git1/helloworld.java"
--'  1  0  ~/git/git1/helloworld.java
-|4,39,1,0,1579477418,"~/git/git1/helloworld.java"
--'  1  0  ~/git/git1/helloworld.java
-|4,39,1,0,1579477418,"~/git/git1/helloworld.java"
--'  1  0  ~/git/git1/helloworld.java
-|4,39,1,0,1579477418,"~/git/git1/helloworld.java"
--'  1  0  ~/git/git1/helloworld.java
-|4,39,1,0,1579477418,"~/git/git1/helloworld.java"
--'  1  0  ~/git/git1/helloworld.java
-|4,39,1,0,1579477418,"~/git/git1/helloworld.java"
--'  1  0  ~/git/git1/helloworld.java
-|4,39,1,0,1579477418,"~/git/git1/helloworld.java"
--'  1  0  ~/git/git1/helloworld.java
-|4,39,1,0,1579477418,"~/git/git1/helloworld.java"
--'  1  0  ~/git/git1/helloworld.java
-|4,39,1,0,1579477418,"~/git/git1/helloworld.java"
--'  1  0  ~/git/git1/helloworld.java
-|4,39,1,0,1579477418,"~/git/git1/helloworld.java"
--'  1  0  ~/git/git1/helloworld.java
-|4,39,1,0,1579477418,"~/git/git1/helloworld.java"
--'  1  0  ~/git/git1/helloworld.java
-|4,39,1,0,1579477418,"~/git/git1/helloworld.java"
--'  1  0  ~/git/git1/helloworld.java
-|4,39,1,0,1579477418,"~/git/git1/helloworld.java"
--'  1  0  ~/git/git1/helloworld.java
-|4,39,1,0,1579477418,"~/git/git1/helloworld.java"
--'  1  0  ~/git/git1/helloworld.java
-|4,39,1,0,1579477418,"~/git/git1/helloworld.java"
--'  1  0  ~/git/git1/helloworld.java
-|4,39,1,0,1579477418,"~/git/git1/helloworld.java"
--'  1  0  ~/git/git1/helloworld.java
-|4,39,1,0,1579477418,"~/git/git1/helloworld.java"
--'  1  0  ~/git/git1/helloworld.java
-|4,39,1,0,1579477418,"~/git/git1/helloworld.java"
--'  1  0  ~/git/git1/helloworld.java
-|4,39,1,0,1579477418,"~/git/git1/helloworld.java"
--'  1  0  ~/git/git1/helloworld.java
-|4,39,1,0,1579477418,"~/git/git1/helloworld.java"
--'  1  0  ~/git/git1/helloworld.java
-|4,39,1,0,1579477418,"~/git/git1/helloworld.java"
--'  1  0  ~/git/git1/helloworld.java
-|4,39,1,0,1579477418,"~/git/git1/helloworld.java"
--'  1  0  ~/git/git1/helloworld.java
-|4,39,1,0,1579477418,"~/git/git1/helloworld.java"
--'  1  0  ~/git/git1/helloworld.java
-|4,39,1,0,1579477418,"~/git/git1/helloworld.java"
--'  1  0  ~/git/git1/helloworld.java
-|4,39,1,0,1579477418,"~/git/git1/helloworld.java"
--'  1  0  ~/git/git1/helloworld.java
-|4,39,1,0,1579477418,"~/git/git1/helloworld.java"
--'  1  0  ~/git/git1/helloworld.java
-|4,39,1,0,1579477418,"~/git/git1/helloworld.java"
--'  1  0  ~/git/git1/helloworld.java
-|4,39,1,0,1579477418,"~/git/git1/helloworld.java"
--'  1  0  ~/git/git1/helloworld.java
-|4,39,1,0,1579477418,"~/git/git1/helloworld.java"
--'  1  0  ~/git/git1/helloworld.java
-|4,39,1,0,1579477418,"~/git/git1/helloworld.java"
--'  1  0  ~/git/git1/helloworld.java
-|4,39,1,0,1579477418,"~/git/git1/helloworld.java"
--'  1  0  ~/git/git1/helloworld.java
-|4,39,1,0,1579477418,"~/git/git1/helloworld.java"
--'  1  0  ~/config
-|4,39,1,0,1579476104,"~/config"
--'  1  0  ~/config
-|4,39,1,0,1579476104,"~/config"
--'  1  0  ~/config
-|4,39,1,0,1579476104,"~/config"
--'  1  0  ~/config
-|4,39,1,0,1579476104,"~/config"
--'  1  0  ~/config
-|4,39,1,0,1579476104,"~/config"
--'  1  0  ~/config
-|4,39,1,0,1579476104,"~/config"
--'  1  0  ~/config
-|4,39,1,0,1579476104,"~/config"
--'  1  0  ~/config
-|4,39,1,0,1579476104,"~/config"
--'  1  0  ~/config
-|4,39,1,0,1579476104,"~/config"
--'  1  0  ~/config
-|4,39,1,0,1579476104,"~/config"
--'  1  0  ~/config
-|4,39,1,0,1579476104,"~/config"
--'  1  0  ~/config
-|4,39,1,0,1579476104,"~/config"
--'  1  0  ~/config
-|4,39,1,0,1579476104,"~/config"
+|4,39,1,0,1579629822,"~/index.html"
+-'  1  0  ~/viminfo
+|4,39,1,0,1579629717,"~/viminfo"
+-'  1  0  ~/viminfo
+|4,39,1,0,1579629717,"~/viminfo"
+-'  1  0  ~/.viminfo
+|4,39,1,0,1579629702,"~/.viminfo"
+-'  1  0  ~/.viminfo
+|4,39,1,0,1579629702,"~/.viminfo"
+-'  1  0  ~/.viminfo
+|4,39,1,0,1579629702,"~/.viminfo"
+-'  1  0  ~/.viminfo
+|4,39,1,0,1579629702,"~/.viminfo"
 
 # History of marks within files (newest to oldest):
 
 > ~/index.html
-	*	1579628507	0
-	"	1	27
-	^	1	28
-	.	1	27
-	+	1	9
-	+	1	27
+	*	1579629820	0
+	"	1	0
+	^	1	0
+	.	2	0
+	+	2	7
+	+	1	0
+	+	2	0
+	+	1	0
+	+	2	0
 
-> ~/.gitconfig
-	*	1579541511	0
-	"	3	27
-	^	3	28
-	.	4	0
-	+	2	16
-	+	3	27
-	+	4	0
-
-> ~/config
-	*	1579541231	0
+> ~/viminfo
+	*	1579629716	0
 	"	1	0
 
-> ~/git/git1/helloworld.java
-	*	1579477530	0
-	"	5	2
-	^	5	3
-	.	5	2
-	+	5	2
-
-> ~/cinfig
-	*	1579476086	0
+> ~/.viminfo
+	*	1579629694	0
 	"	1	0

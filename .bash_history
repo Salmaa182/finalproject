@@ -146,3 +146,117 @@ git push origin master
 git status
 cd ..
 git checkout release
+sudo spt-get update
+sudo apt-get update
+sudo su - git
+sudo su - user
+cd finalproject
+sudo su - jenkins
+git config --list
+git config user.name "salmaa182"
+vim config
+vim --global
+cat .gitconfig
+git config --list
+vim  .gitconfig
+cat .gitconfig
+git clone https://github.com/Salmaa182/finalproject.git
+git init
+git add -a
+git add
+git add .
+git commit -m "new comit"
+git push origin 
+git push
+git push finalproject
+git status
+git branch release
+git branch --list
+git branch integration
+git branch --list
+git checkout integration
+git branch
+touch index.html
+vi index.html
+git status
+git add .
+git status
+git commit -m "newfile"
+git push 
+git push --upstream origin finalproject
+git push
+git remote add finalproject https://github.com/Salmaa182/finalproject.git
+git push finalproject
+git checkout release
+git add .
+git commit -m "newcommit"
+git push 
+git push finalproject
+git push --set-upstream finalproject release
+ssh-keygen
+cat ~/.ssh/id_rsa.pub
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDD1aM3VLourcN0QCg9yiLSNa2rng/pNhLW4lc2mgF7EjxYPm2LdtABtuo/NlQ4O5JdPyt0yjTAw3cyr2samqDx3rzjg9BDvaYcTgEdbHVJXB6L7CGmwNuAXwSzppnVJaqsKhFZThKn7jS5MpbDEDGpF4SCbbD7pMfUzsvDyVYW4Z4tCuXXmw9qP2+b0EelX+D7aWFnuv+4Y3Kzuc6HnQCo7p+4vB6nuzE8nZPYQh9FzdjTDnJfz9X8/9VXZ5YKhWPHRc73eDcL8I6MaQKTPJM6o5NMRgWkygBJ7ekXMY90Rgy4rrGeDOOOffZrXBN4NJDExQ789aLopvmKOJ8bq/AX ubuntu@ip-10-0-1-57
+ls 
+git checkout release
+ls
+cd finalproject
+ls
+git checkout integration
+git status
+git branch
+git status
+git branch --list
+cd ..
+git branch --list
+ssh-keygen
+cat ~/.ssh/id_rsa.pub
+ssh root@52.23.240.73
+ssh root@ip-10-3-1-184
+sudo apt-get update
+ls -l
+chmod +x
+sudo apt-get update
+sudo systemctl start jenkins
+sudo systemctl uninstall  jenkins
+vi /var/lib/jenkins/config.xml file
+service jenkins restart
+systemctl status jenkins.service
+sudo vi /var/lib/jenkins/config.xml file.
+service jenkins restart
+sudo apt-get update
+ssh-keygen
+ssh root@10.3.1.184
+ssh-keygen
+sudo su - jenkins
+sudo service jenkins restart
+sudo service jenkins status
+sudo su - jenkins
+sudo service jenkins status
+sudo service jenkins restart
+sudo su - jenkins
+cd ssh
+cd .ssh
+vi authorized_keys
+sudo su - jenkins
+ssh root@@ip-10-1-1-49
+ssh root@ip-10-1-1-49
+@ip-10-1-1-49
+ssh ubuntu@ip-10-1-1-49
+sudo su -
+sudo su - jenkins
+ssh ubuntu@ip-10-2-1-191
+git status
+pwd
+ll
+sudo su - jenkins
+sudo su - 
+sudo su - jenkins
+sudo su - jenkins
+sudo su - jenkins
+sudo apt-get update
+sudo su - jenkins
+sudo su -
+sudo apt-get update
+git status
+git branch --list
+
