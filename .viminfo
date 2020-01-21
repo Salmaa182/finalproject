@@ -11,12 +11,12 @@
 # hlsearch on (H) or off (h):
 ~h
 # Command Line History (newest to oldest):
-:wq!
-|2,0,1579585955,,"wq!"
-:q
-|2,0,1579585891,,"q"
 :wq
-|2,0,1579481291,,"wq"
+|2,0,1579629822,,"wq"
+:q
+|2,0,1579629717,,"q"
+:'<,'>:wq!
+|2,0,1579629702,,"'<,'>:wq!"
 
 # Search String History (newest to oldest):
 
@@ -29,272 +29,46 @@
 # Registers:
 
 # File marks:
-'0  2  0  ~/index.html
-|4,48,2,0,1579585955,"~/index.html"
-'1  1  0  ~/index.html
-|4,49,1,0,1579585891,"~/index.html"
-'2  1  0  ~/index.html
-|4,50,1,0,1579585891,"~/index.html"
-'3  3  417  ~/.ssh/authorized_keys
-|4,51,3,417,1579554095,"~/.ssh/authorized_keys"
-'4  8  19  /var/lib/jenkins/config.xml
-|4,52,8,19,1579548737,"/var/lib/jenkins/config.xml"
-'5  42  0  /var/lib/jenkins/config.xml
-|4,53,42,0,1579548394,"/var/lib/jenkins/config.xml"
-'6  42  0  /var/lib/jenkins/config.xml
-|4,54,42,0,1579548394,"/var/lib/jenkins/config.xml"
-'7  3  27  ~/.gitconfig
-|4,55,3,27,1579541515,"~/.gitconfig"
-'8  1  0  ~/config
-|4,56,1,0,1579541232,"~/config"
-'9  1  0  ~/index.html
-|4,57,1,0,1579481291,"~/index.html"
+'0  1  0  ~/index.html
+|4,48,1,0,1579629822,"~/index.html"
+'1  1  0  ~/viminfo
+|4,49,1,0,1579629717,"~/viminfo"
+'2  1  0  ~/.viminfo
+|4,50,1,0,1579629702,"~/.viminfo"
 
 # Jumplist (newest first):
--'  2  0  ~/index.html
-|4,39,2,0,1579585955,"~/index.html"
 -'  1  0  ~/index.html
-|4,39,1,0,1579585910,"~/index.html"
--'  1  0  ~/index.html
-|4,39,1,0,1579585891,"~/index.html"
--'  3  417  ~/.ssh/authorized_keys
-|4,39,3,417,1579554095,"~/.ssh/authorized_keys"
--'  3  417  ~/.ssh/authorized_keys
-|4,39,3,417,1579554095,"~/.ssh/authorized_keys"
--'  3  417  ~/.ssh/authorized_keys
-|4,39,3,417,1579554095,"~/.ssh/authorized_keys"
--'  3  417  ~/.ssh/authorized_keys
-|4,39,3,417,1579554095,"~/.ssh/authorized_keys"
--'  1  0  ~/.ssh/authorized_keys
-|4,39,1,0,1579554086,"~/.ssh/authorized_keys"
--'  1  0  ~/.ssh/authorized_keys
-|4,39,1,0,1579554086,"~/.ssh/authorized_keys"
--'  1  0  ~/.ssh/authorized_keys
-|4,39,1,0,1579554086,"~/.ssh/authorized_keys"
--'  1  0  ~/.ssh/authorized_keys
-|4,39,1,0,1579554086,"~/.ssh/authorized_keys"
--'  8  19  /var/lib/jenkins/config.xml
-|4,39,8,19,1579548737,"/var/lib/jenkins/config.xml"
--'  8  19  /var/lib/jenkins/config.xml
-|4,39,8,19,1579548737,"/var/lib/jenkins/config.xml"
--'  8  19  /var/lib/jenkins/config.xml
-|4,39,8,19,1579548737,"/var/lib/jenkins/config.xml"
--'  8  19  /var/lib/jenkins/config.xml
-|4,39,8,19,1579548737,"/var/lib/jenkins/config.xml"
--'  8  19  /var/lib/jenkins/config.xml
-|4,39,8,19,1579548737,"/var/lib/jenkins/config.xml"
--'  8  19  /var/lib/jenkins/config.xml
-|4,39,8,19,1579548737,"/var/lib/jenkins/config.xml"
--'  8  19  /var/lib/jenkins/config.xml
-|4,39,8,19,1579548737,"/var/lib/jenkins/config.xml"
--'  8  19  /var/lib/jenkins/config.xml
-|4,39,8,19,1579548737,"/var/lib/jenkins/config.xml"
--'  42  0  /var/lib/jenkins/config.xml
-|4,39,42,0,1579548697,"/var/lib/jenkins/config.xml"
--'  42  0  /var/lib/jenkins/config.xml
-|4,39,42,0,1579548697,"/var/lib/jenkins/config.xml"
--'  42  0  /var/lib/jenkins/config.xml
-|4,39,42,0,1579548697,"/var/lib/jenkins/config.xml"
--'  42  0  /var/lib/jenkins/config.xml
-|4,39,42,0,1579548697,"/var/lib/jenkins/config.xml"
--'  42  0  /var/lib/jenkins/config.xml
-|4,39,42,0,1579548697,"/var/lib/jenkins/config.xml"
--'  42  0  /var/lib/jenkins/config.xml
-|4,39,42,0,1579548697,"/var/lib/jenkins/config.xml"
--'  42  0  /var/lib/jenkins/config.xml
-|4,39,42,0,1579548697,"/var/lib/jenkins/config.xml"
--'  42  0  /var/lib/jenkins/config.xml
-|4,39,42,0,1579548697,"/var/lib/jenkins/config.xml"
--'  42  0  /var/lib/jenkins/config.xml
-|4,39,42,0,1579548394,"/var/lib/jenkins/config.xml"
--'  42  0  /var/lib/jenkins/config.xml
-|4,39,42,0,1579548394,"/var/lib/jenkins/config.xml"
--'  42  0  /var/lib/jenkins/config.xml
-|4,39,42,0,1579548394,"/var/lib/jenkins/config.xml"
--'  42  0  /var/lib/jenkins/config.xml
-|4,39,42,0,1579548394,"/var/lib/jenkins/config.xml"
--'  42  0  /var/lib/jenkins/config.xml
-|4,39,42,0,1579548394,"/var/lib/jenkins/config.xml"
--'  42  0  /var/lib/jenkins/config.xml
-|4,39,42,0,1579548394,"/var/lib/jenkins/config.xml"
--'  42  0  /var/lib/jenkins/config.xml
-|4,39,42,0,1579548394,"/var/lib/jenkins/config.xml"
--'  42  0  /var/lib/jenkins/config.xml
-|4,39,42,0,1579548394,"/var/lib/jenkins/config.xml"
--'  1  0  /var/lib/jenkins/config.xml
-|4,39,1,0,1579548232,"/var/lib/jenkins/config.xml"
--'  1  0  /var/lib/jenkins/config.xml
-|4,39,1,0,1579548232,"/var/lib/jenkins/config.xml"
--'  1  0  /var/lib/jenkins/config.xml
-|4,39,1,0,1579548232,"/var/lib/jenkins/config.xml"
--'  1  0  /var/lib/jenkins/config.xml
-|4,39,1,0,1579548232,"/var/lib/jenkins/config.xml"
--'  1  0  /var/lib/jenkins/config.xml
-|4,39,1,0,1579548232,"/var/lib/jenkins/config.xml"
--'  1  0  /var/lib/jenkins/config.xml
-|4,39,1,0,1579548232,"/var/lib/jenkins/config.xml"
--'  1  0  /var/lib/jenkins/config.xml
-|4,39,1,0,1579548232,"/var/lib/jenkins/config.xml"
--'  1  0  /var/lib/jenkins/config.xml
-|4,39,1,0,1579548232,"/var/lib/jenkins/config.xml"
--'  1  0  /var/lib/jenkins/config.xml
-|4,39,1,0,1579548232,"/var/lib/jenkins/config.xml"
--'  1  0  /var/lib/jenkins/config.xml
-|4,39,1,0,1579548232,"/var/lib/jenkins/config.xml"
--'  1  0  /var/lib/jenkins/config.xml
-|4,39,1,0,1579548232,"/var/lib/jenkins/config.xml"
--'  1  0  /var/lib/jenkins/config.xml
-|4,39,1,0,1579548232,"/var/lib/jenkins/config.xml"
--'  1  0  /var/lib/jenkins/config.xml
-|4,39,1,0,1579548232,"/var/lib/jenkins/config.xml"
--'  1  0  /var/lib/jenkins/config.xml
-|4,39,1,0,1579548232,"/var/lib/jenkins/config.xml"
--'  1  0  /var/lib/jenkins/config.xml
-|4,39,1,0,1579548232,"/var/lib/jenkins/config.xml"
--'  1  0  /var/lib/jenkins/config.xml
-|4,39,1,0,1579548232,"/var/lib/jenkins/config.xml"
--'  3  27  ~/.gitconfig
-|4,39,3,27,1579541515,"~/.gitconfig"
--'  3  27  ~/.gitconfig
-|4,39,3,27,1579541515,"~/.gitconfig"
--'  3  27  ~/.gitconfig
-|4,39,3,27,1579541515,"~/.gitconfig"
--'  3  27  ~/.gitconfig
-|4,39,3,27,1579541515,"~/.gitconfig"
--'  3  27  ~/.gitconfig
-|4,39,3,27,1579541515,"~/.gitconfig"
--'  3  27  ~/.gitconfig
-|4,39,3,27,1579541515,"~/.gitconfig"
--'  3  27  ~/.gitconfig
-|4,39,3,27,1579541515,"~/.gitconfig"
--'  3  27  ~/.gitconfig
-|4,39,3,27,1579541515,"~/.gitconfig"
--'  3  27  ~/.gitconfig
-|4,39,3,27,1579541515,"~/.gitconfig"
--'  3  27  ~/.gitconfig
-|4,39,3,27,1579541515,"~/.gitconfig"
--'  3  27  ~/.gitconfig
-|4,39,3,27,1579541515,"~/.gitconfig"
--'  3  27  ~/.gitconfig
-|4,39,3,27,1579541515,"~/.gitconfig"
--'  3  27  ~/.gitconfig
-|4,39,3,27,1579541515,"~/.gitconfig"
--'  3  27  ~/.gitconfig
-|4,39,3,27,1579541515,"~/.gitconfig"
--'  3  27  ~/.gitconfig
-|4,39,3,27,1579541515,"~/.gitconfig"
--'  3  27  ~/.gitconfig
-|4,39,3,27,1579541515,"~/.gitconfig"
--'  3  27  ~/.gitconfig
-|4,39,3,27,1579541515,"~/.gitconfig"
--'  3  27  ~/.gitconfig
-|4,39,3,27,1579541515,"~/.gitconfig"
--'  3  27  ~/.gitconfig
-|4,39,3,27,1579541515,"~/.gitconfig"
--'  3  27  ~/.gitconfig
-|4,39,3,27,1579541515,"~/.gitconfig"
--'  3  27  ~/.gitconfig
-|4,39,3,27,1579541515,"~/.gitconfig"
--'  3  27  ~/.gitconfig
-|4,39,3,27,1579541515,"~/.gitconfig"
--'  3  27  ~/.gitconfig
-|4,39,3,27,1579541515,"~/.gitconfig"
--'  3  27  ~/.gitconfig
-|4,39,3,27,1579541515,"~/.gitconfig"
--'  3  27  ~/.gitconfig
-|4,39,3,27,1579541515,"~/.gitconfig"
--'  3  27  ~/.gitconfig
-|4,39,3,27,1579541515,"~/.gitconfig"
--'  3  27  ~/.gitconfig
-|4,39,3,27,1579541515,"~/.gitconfig"
--'  3  27  ~/.gitconfig
-|4,39,3,27,1579541515,"~/.gitconfig"
--'  3  27  ~/.gitconfig
-|4,39,3,27,1579541515,"~/.gitconfig"
--'  3  27  ~/.gitconfig
-|4,39,3,27,1579541515,"~/.gitconfig"
--'  3  27  ~/.gitconfig
-|4,39,3,27,1579541515,"~/.gitconfig"
--'  3  27  ~/.gitconfig
-|4,39,3,27,1579541515,"~/.gitconfig"
--'  2  16  ~/.gitconfig
-|4,39,2,16,1579541476,"~/.gitconfig"
--'  2  16  ~/.gitconfig
-|4,39,2,16,1579541476,"~/.gitconfig"
--'  2  16  ~/.gitconfig
-|4,39,2,16,1579541476,"~/.gitconfig"
--'  2  16  ~/.gitconfig
-|4,39,2,16,1579541476,"~/.gitconfig"
--'  2  16  ~/.gitconfig
-|4,39,2,16,1579541476,"~/.gitconfig"
--'  2  16  ~/.gitconfig
-|4,39,2,16,1579541476,"~/.gitconfig"
--'  2  16  ~/.gitconfig
-|4,39,2,16,1579541476,"~/.gitconfig"
--'  2  16  ~/.gitconfig
-|4,39,2,16,1579541476,"~/.gitconfig"
--'  2  16  ~/.gitconfig
-|4,39,2,16,1579541476,"~/.gitconfig"
--'  2  16  ~/.gitconfig
-|4,39,2,16,1579541476,"~/.gitconfig"
--'  2  16  ~/.gitconfig
-|4,39,2,16,1579541476,"~/.gitconfig"
--'  2  16  ~/.gitconfig
-|4,39,2,16,1579541476,"~/.gitconfig"
--'  2  16  ~/.gitconfig
-|4,39,2,16,1579541476,"~/.gitconfig"
--'  2  16  ~/.gitconfig
-|4,39,2,16,1579541476,"~/.gitconfig"
--'  2  16  ~/.gitconfig
-|4,39,2,16,1579541476,"~/.gitconfig"
--'  2  16  ~/.gitconfig
-|4,39,2,16,1579541476,"~/.gitconfig"
--'  2  16  ~/.gitconfig
-|4,39,2,16,1579541476,"~/.gitconfig"
+|4,39,1,0,1579629822,"~/index.html"
+-'  1  0  ~/viminfo
+|4,39,1,0,1579629717,"~/viminfo"
+-'  1  0  ~/viminfo
+|4,39,1,0,1579629717,"~/viminfo"
+-'  1  0  ~/.viminfo
+|4,39,1,0,1579629702,"~/.viminfo"
+-'  1  0  ~/.viminfo
+|4,39,1,0,1579629702,"~/.viminfo"
+-'  1  0  ~/.viminfo
+|4,39,1,0,1579629702,"~/.viminfo"
+-'  1  0  ~/.viminfo
+|4,39,1,0,1579629702,"~/.viminfo"
 
 # History of marks within files (newest to oldest):
 
 > ~/index.html
-	*	1579585953	0
-	"	2	0
-	^	2	0
-	.	1	24
-	+	1	24
+	*	1579629820	0
+	"	1	0
+	^	1	0
+	.	2	0
+	+	2	7
+	+	1	0
+	+	2	0
+	+	1	0
+	+	2	0
 
-> ~/.ssh/authorized_keys
-	*	1579554093	0
-	"	3	417
-	^	3	418
-	.	3	417
-	+	3	417
-
-> /var/lib/jenkins/config.xml
-	*	1579548735	0
-	"	8	19
-	^	8	20
-	.	8	19
-	+	8	19
-
-> ~/.gitconfig
-	*	1579541511	0
-	"	3	27
-	^	3	28
-	.	4	0
-	+	2	16
-	+	3	27
-	+	4	0
-
-> ~/config
-	*	1579541231	0
+> ~/viminfo
+	*	1579629716	0
 	"	1	0
 
-> ~/git/git1/helloworld.java
-	*	1579477530	0
-	"	5	2
-	^	5	3
-	.	5	2
-	+	5	2
-
-> ~/cinfig
-	*	1579476086	0
+> ~/.viminfo
+	*	1579629694	0
 	"	1	0
