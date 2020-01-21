@@ -12,9 +12,9 @@
 ~h
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1579541515,,"wq!"
+|2,0,1579585955,,"wq!"
 :q
-|2,0,1579541232,,"q"
+|2,0,1579585891,,"q"
 :wq
 |2,0,1579481291,,"wq"
 
@@ -29,226 +29,251 @@
 # Registers:
 
 # File marks:
-'0  3  27  ~/.gitconfig
-|4,48,3,27,1579541515,"~/.gitconfig"
-'1  1  0  ~/config
-|4,49,1,0,1579541232,"~/config"
+'0  2  0  ~/index.html
+|4,48,2,0,1579585955,"~/index.html"
+'1  1  0  ~/index.html
+|4,49,1,0,1579585891,"~/index.html"
 '2  1  0  ~/index.html
-|4,50,1,0,1579481291,"~/index.html"
-'3  5  2  ~/git/git1/helloworld.java
-|4,51,5,2,1579477531,"~/git/git1/helloworld.java"
-'4  1  0  ~/config
-|4,52,1,0,1579476104,"~/config"
-'5  1  0  ~/cinfig
-|4,53,1,0,1579476089,"~/cinfig"
-'6  2  16  ~/.gitconfig
-|4,54,2,16,1579473971,"~/.gitconfig"
-'7  2  16  ~/.gitconfig
-|4,55,2,16,1579473971,"~/.gitconfig"
+|4,50,1,0,1579585891,"~/index.html"
+'3  3  417  ~/.ssh/authorized_keys
+|4,51,3,417,1579554095,"~/.ssh/authorized_keys"
+'4  8  19  /var/lib/jenkins/config.xml
+|4,52,8,19,1579548737,"/var/lib/jenkins/config.xml"
+'5  42  0  /var/lib/jenkins/config.xml
+|4,53,42,0,1579548394,"/var/lib/jenkins/config.xml"
+'6  42  0  /var/lib/jenkins/config.xml
+|4,54,42,0,1579548394,"/var/lib/jenkins/config.xml"
+'7  3  27  ~/.gitconfig
+|4,55,3,27,1579541515,"~/.gitconfig"
+'8  1  0  ~/config
+|4,56,1,0,1579541232,"~/config"
+'9  1  0  ~/index.html
+|4,57,1,0,1579481291,"~/index.html"
 
 # Jumplist (newest first):
+-'  2  0  ~/index.html
+|4,39,2,0,1579585955,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1579585910,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1579585891,"~/index.html"
+-'  3  417  ~/.ssh/authorized_keys
+|4,39,3,417,1579554095,"~/.ssh/authorized_keys"
+-'  3  417  ~/.ssh/authorized_keys
+|4,39,3,417,1579554095,"~/.ssh/authorized_keys"
+-'  3  417  ~/.ssh/authorized_keys
+|4,39,3,417,1579554095,"~/.ssh/authorized_keys"
+-'  3  417  ~/.ssh/authorized_keys
+|4,39,3,417,1579554095,"~/.ssh/authorized_keys"
+-'  1  0  ~/.ssh/authorized_keys
+|4,39,1,0,1579554086,"~/.ssh/authorized_keys"
+-'  1  0  ~/.ssh/authorized_keys
+|4,39,1,0,1579554086,"~/.ssh/authorized_keys"
+-'  1  0  ~/.ssh/authorized_keys
+|4,39,1,0,1579554086,"~/.ssh/authorized_keys"
+-'  1  0  ~/.ssh/authorized_keys
+|4,39,1,0,1579554086,"~/.ssh/authorized_keys"
+-'  8  19  /var/lib/jenkins/config.xml
+|4,39,8,19,1579548737,"/var/lib/jenkins/config.xml"
+-'  8  19  /var/lib/jenkins/config.xml
+|4,39,8,19,1579548737,"/var/lib/jenkins/config.xml"
+-'  8  19  /var/lib/jenkins/config.xml
+|4,39,8,19,1579548737,"/var/lib/jenkins/config.xml"
+-'  8  19  /var/lib/jenkins/config.xml
+|4,39,8,19,1579548737,"/var/lib/jenkins/config.xml"
+-'  8  19  /var/lib/jenkins/config.xml
+|4,39,8,19,1579548737,"/var/lib/jenkins/config.xml"
+-'  8  19  /var/lib/jenkins/config.xml
+|4,39,8,19,1579548737,"/var/lib/jenkins/config.xml"
+-'  8  19  /var/lib/jenkins/config.xml
+|4,39,8,19,1579548737,"/var/lib/jenkins/config.xml"
+-'  8  19  /var/lib/jenkins/config.xml
+|4,39,8,19,1579548737,"/var/lib/jenkins/config.xml"
+-'  42  0  /var/lib/jenkins/config.xml
+|4,39,42,0,1579548697,"/var/lib/jenkins/config.xml"
+-'  42  0  /var/lib/jenkins/config.xml
+|4,39,42,0,1579548697,"/var/lib/jenkins/config.xml"
+-'  42  0  /var/lib/jenkins/config.xml
+|4,39,42,0,1579548697,"/var/lib/jenkins/config.xml"
+-'  42  0  /var/lib/jenkins/config.xml
+|4,39,42,0,1579548697,"/var/lib/jenkins/config.xml"
+-'  42  0  /var/lib/jenkins/config.xml
+|4,39,42,0,1579548697,"/var/lib/jenkins/config.xml"
+-'  42  0  /var/lib/jenkins/config.xml
+|4,39,42,0,1579548697,"/var/lib/jenkins/config.xml"
+-'  42  0  /var/lib/jenkins/config.xml
+|4,39,42,0,1579548697,"/var/lib/jenkins/config.xml"
+-'  42  0  /var/lib/jenkins/config.xml
+|4,39,42,0,1579548697,"/var/lib/jenkins/config.xml"
+-'  42  0  /var/lib/jenkins/config.xml
+|4,39,42,0,1579548394,"/var/lib/jenkins/config.xml"
+-'  42  0  /var/lib/jenkins/config.xml
+|4,39,42,0,1579548394,"/var/lib/jenkins/config.xml"
+-'  42  0  /var/lib/jenkins/config.xml
+|4,39,42,0,1579548394,"/var/lib/jenkins/config.xml"
+-'  42  0  /var/lib/jenkins/config.xml
+|4,39,42,0,1579548394,"/var/lib/jenkins/config.xml"
+-'  42  0  /var/lib/jenkins/config.xml
+|4,39,42,0,1579548394,"/var/lib/jenkins/config.xml"
+-'  42  0  /var/lib/jenkins/config.xml
+|4,39,42,0,1579548394,"/var/lib/jenkins/config.xml"
+-'  42  0  /var/lib/jenkins/config.xml
+|4,39,42,0,1579548394,"/var/lib/jenkins/config.xml"
+-'  42  0  /var/lib/jenkins/config.xml
+|4,39,42,0,1579548394,"/var/lib/jenkins/config.xml"
+-'  1  0  /var/lib/jenkins/config.xml
+|4,39,1,0,1579548232,"/var/lib/jenkins/config.xml"
+-'  1  0  /var/lib/jenkins/config.xml
+|4,39,1,0,1579548232,"/var/lib/jenkins/config.xml"
+-'  1  0  /var/lib/jenkins/config.xml
+|4,39,1,0,1579548232,"/var/lib/jenkins/config.xml"
+-'  1  0  /var/lib/jenkins/config.xml
+|4,39,1,0,1579548232,"/var/lib/jenkins/config.xml"
+-'  1  0  /var/lib/jenkins/config.xml
+|4,39,1,0,1579548232,"/var/lib/jenkins/config.xml"
+-'  1  0  /var/lib/jenkins/config.xml
+|4,39,1,0,1579548232,"/var/lib/jenkins/config.xml"
+-'  1  0  /var/lib/jenkins/config.xml
+|4,39,1,0,1579548232,"/var/lib/jenkins/config.xml"
+-'  1  0  /var/lib/jenkins/config.xml
+|4,39,1,0,1579548232,"/var/lib/jenkins/config.xml"
+-'  1  0  /var/lib/jenkins/config.xml
+|4,39,1,0,1579548232,"/var/lib/jenkins/config.xml"
+-'  1  0  /var/lib/jenkins/config.xml
+|4,39,1,0,1579548232,"/var/lib/jenkins/config.xml"
+-'  1  0  /var/lib/jenkins/config.xml
+|4,39,1,0,1579548232,"/var/lib/jenkins/config.xml"
+-'  1  0  /var/lib/jenkins/config.xml
+|4,39,1,0,1579548232,"/var/lib/jenkins/config.xml"
+-'  1  0  /var/lib/jenkins/config.xml
+|4,39,1,0,1579548232,"/var/lib/jenkins/config.xml"
+-'  1  0  /var/lib/jenkins/config.xml
+|4,39,1,0,1579548232,"/var/lib/jenkins/config.xml"
+-'  1  0  /var/lib/jenkins/config.xml
+|4,39,1,0,1579548232,"/var/lib/jenkins/config.xml"
+-'  1  0  /var/lib/jenkins/config.xml
+|4,39,1,0,1579548232,"/var/lib/jenkins/config.xml"
+-'  3  27  ~/.gitconfig
+|4,39,3,27,1579541515,"~/.gitconfig"
+-'  3  27  ~/.gitconfig
+|4,39,3,27,1579541515,"~/.gitconfig"
+-'  3  27  ~/.gitconfig
+|4,39,3,27,1579541515,"~/.gitconfig"
+-'  3  27  ~/.gitconfig
+|4,39,3,27,1579541515,"~/.gitconfig"
+-'  3  27  ~/.gitconfig
+|4,39,3,27,1579541515,"~/.gitconfig"
+-'  3  27  ~/.gitconfig
+|4,39,3,27,1579541515,"~/.gitconfig"
+-'  3  27  ~/.gitconfig
+|4,39,3,27,1579541515,"~/.gitconfig"
+-'  3  27  ~/.gitconfig
+|4,39,3,27,1579541515,"~/.gitconfig"
+-'  3  27  ~/.gitconfig
+|4,39,3,27,1579541515,"~/.gitconfig"
+-'  3  27  ~/.gitconfig
+|4,39,3,27,1579541515,"~/.gitconfig"
+-'  3  27  ~/.gitconfig
+|4,39,3,27,1579541515,"~/.gitconfig"
+-'  3  27  ~/.gitconfig
+|4,39,3,27,1579541515,"~/.gitconfig"
+-'  3  27  ~/.gitconfig
+|4,39,3,27,1579541515,"~/.gitconfig"
+-'  3  27  ~/.gitconfig
+|4,39,3,27,1579541515,"~/.gitconfig"
+-'  3  27  ~/.gitconfig
+|4,39,3,27,1579541515,"~/.gitconfig"
+-'  3  27  ~/.gitconfig
+|4,39,3,27,1579541515,"~/.gitconfig"
+-'  3  27  ~/.gitconfig
+|4,39,3,27,1579541515,"~/.gitconfig"
+-'  3  27  ~/.gitconfig
+|4,39,3,27,1579541515,"~/.gitconfig"
+-'  3  27  ~/.gitconfig
+|4,39,3,27,1579541515,"~/.gitconfig"
+-'  3  27  ~/.gitconfig
+|4,39,3,27,1579541515,"~/.gitconfig"
+-'  3  27  ~/.gitconfig
+|4,39,3,27,1579541515,"~/.gitconfig"
+-'  3  27  ~/.gitconfig
+|4,39,3,27,1579541515,"~/.gitconfig"
+-'  3  27  ~/.gitconfig
+|4,39,3,27,1579541515,"~/.gitconfig"
+-'  3  27  ~/.gitconfig
+|4,39,3,27,1579541515,"~/.gitconfig"
+-'  3  27  ~/.gitconfig
+|4,39,3,27,1579541515,"~/.gitconfig"
+-'  3  27  ~/.gitconfig
+|4,39,3,27,1579541515,"~/.gitconfig"
+-'  3  27  ~/.gitconfig
+|4,39,3,27,1579541515,"~/.gitconfig"
+-'  3  27  ~/.gitconfig
+|4,39,3,27,1579541515,"~/.gitconfig"
+-'  3  27  ~/.gitconfig
+|4,39,3,27,1579541515,"~/.gitconfig"
+-'  3  27  ~/.gitconfig
+|4,39,3,27,1579541515,"~/.gitconfig"
+-'  3  27  ~/.gitconfig
+|4,39,3,27,1579541515,"~/.gitconfig"
 -'  3  27  ~/.gitconfig
 |4,39,3,27,1579541515,"~/.gitconfig"
 -'  2  16  ~/.gitconfig
 |4,39,2,16,1579541476,"~/.gitconfig"
--'  1  0  ~/config
-|4,39,1,0,1579541232,"~/config"
--'  1  0  ~/config
-|4,39,1,0,1579541232,"~/config"
--'  1  0  ~/index.html
-|4,39,1,0,1579481291,"~/index.html"
--'  1  0  ~/index.html
-|4,39,1,0,1579481291,"~/index.html"
--'  1  0  ~/index.html
-|4,39,1,0,1579481291,"~/index.html"
--'  1  0  ~/index.html
-|4,39,1,0,1579481291,"~/index.html"
--'  5  2  ~/git/git1/helloworld.java
-|4,39,5,2,1579477531,"~/git/git1/helloworld.java"
--'  5  2  ~/git/git1/helloworld.java
-|4,39,5,2,1579477531,"~/git/git1/helloworld.java"
--'  5  2  ~/git/git1/helloworld.java
-|4,39,5,2,1579477531,"~/git/git1/helloworld.java"
--'  5  2  ~/git/git1/helloworld.java
-|4,39,5,2,1579477531,"~/git/git1/helloworld.java"
--'  5  2  ~/git/git1/helloworld.java
-|4,39,5,2,1579477531,"~/git/git1/helloworld.java"
--'  5  2  ~/git/git1/helloworld.java
-|4,39,5,2,1579477531,"~/git/git1/helloworld.java"
--'  5  2  ~/git/git1/helloworld.java
-|4,39,5,2,1579477531,"~/git/git1/helloworld.java"
--'  5  2  ~/git/git1/helloworld.java
-|4,39,5,2,1579477531,"~/git/git1/helloworld.java"
--'  1  0  ~/git/git1/helloworld.java
-|4,39,1,0,1579477418,"~/git/git1/helloworld.java"
--'  1  0  ~/git/git1/helloworld.java
-|4,39,1,0,1579477418,"~/git/git1/helloworld.java"
--'  1  0  ~/git/git1/helloworld.java
-|4,39,1,0,1579477418,"~/git/git1/helloworld.java"
--'  1  0  ~/git/git1/helloworld.java
-|4,39,1,0,1579477418,"~/git/git1/helloworld.java"
--'  1  0  ~/git/git1/helloworld.java
-|4,39,1,0,1579477418,"~/git/git1/helloworld.java"
--'  1  0  ~/git/git1/helloworld.java
-|4,39,1,0,1579477418,"~/git/git1/helloworld.java"
--'  1  0  ~/git/git1/helloworld.java
-|4,39,1,0,1579477418,"~/git/git1/helloworld.java"
--'  1  0  ~/git/git1/helloworld.java
-|4,39,1,0,1579477418,"~/git/git1/helloworld.java"
--'  1  0  ~/config
-|4,39,1,0,1579476104,"~/config"
--'  1  0  ~/config
-|4,39,1,0,1579476104,"~/config"
--'  1  0  ~/config
-|4,39,1,0,1579476104,"~/config"
--'  1  0  ~/config
-|4,39,1,0,1579476104,"~/config"
--'  1  0  ~/config
-|4,39,1,0,1579476104,"~/config"
--'  1  0  ~/config
-|4,39,1,0,1579476104,"~/config"
--'  1  0  ~/config
-|4,39,1,0,1579476104,"~/config"
--'  1  0  ~/config
-|4,39,1,0,1579476104,"~/config"
--'  1  0  ~/cinfig
-|4,39,1,0,1579476089,"~/cinfig"
--'  1  0  ~/cinfig
-|4,39,1,0,1579476089,"~/cinfig"
--'  1  0  ~/cinfig
-|4,39,1,0,1579476089,"~/cinfig"
--'  1  0  ~/cinfig
-|4,39,1,0,1579476089,"~/cinfig"
--'  1  0  ~/cinfig
-|4,39,1,0,1579476089,"~/cinfig"
--'  1  0  ~/cinfig
-|4,39,1,0,1579476089,"~/cinfig"
--'  1  0  ~/cinfig
-|4,39,1,0,1579476089,"~/cinfig"
--'  1  0  ~/cinfig
-|4,39,1,0,1579476089,"~/cinfig"
--'  1  0  ~/cinfig
-|4,39,1,0,1579476089,"~/cinfig"
--'  1  0  ~/cinfig
-|4,39,1,0,1579476089,"~/cinfig"
--'  1  0  ~/cinfig
-|4,39,1,0,1579476089,"~/cinfig"
--'  1  0  ~/cinfig
-|4,39,1,0,1579476089,"~/cinfig"
--'  1  0  ~/cinfig
-|4,39,1,0,1579476089,"~/cinfig"
--'  1  0  ~/cinfig
-|4,39,1,0,1579476089,"~/cinfig"
--'  1  0  ~/cinfig
-|4,39,1,0,1579476089,"~/cinfig"
--'  1  0  ~/cinfig
-|4,39,1,0,1579476089,"~/cinfig"
--'  1  0  ~/cinfig
-|4,39,1,0,1579476089,"~/cinfig"
--'  1  0  ~/cinfig
-|4,39,1,0,1579476089,"~/cinfig"
--'  1  0  ~/cinfig
-|4,39,1,0,1579476089,"~/cinfig"
--'  1  0  ~/cinfig
-|4,39,1,0,1579476089,"~/cinfig"
--'  1  0  ~/cinfig
-|4,39,1,0,1579476089,"~/cinfig"
--'  1  0  ~/cinfig
-|4,39,1,0,1579476089,"~/cinfig"
--'  1  0  ~/cinfig
-|4,39,1,0,1579476089,"~/cinfig"
--'  1  0  ~/cinfig
-|4,39,1,0,1579476089,"~/cinfig"
--'  1  0  ~/cinfig
-|4,39,1,0,1579476089,"~/cinfig"
--'  1  0  ~/cinfig
-|4,39,1,0,1579476089,"~/cinfig"
--'  1  0  ~/cinfig
-|4,39,1,0,1579476089,"~/cinfig"
--'  1  0  ~/cinfig
-|4,39,1,0,1579476089,"~/cinfig"
--'  1  0  ~/cinfig
-|4,39,1,0,1579476089,"~/cinfig"
--'  1  0  ~/cinfig
-|4,39,1,0,1579476089,"~/cinfig"
--'  1  0  ~/cinfig
-|4,39,1,0,1579476089,"~/cinfig"
--'  1  0  ~/cinfig
-|4,39,1,0,1579476089,"~/cinfig"
 -'  2  16  ~/.gitconfig
-|4,39,2,16,1579473971,"~/.gitconfig"
+|4,39,2,16,1579541476,"~/.gitconfig"
 -'  2  16  ~/.gitconfig
-|4,39,2,16,1579473971,"~/.gitconfig"
+|4,39,2,16,1579541476,"~/.gitconfig"
 -'  2  16  ~/.gitconfig
-|4,39,2,16,1579473971,"~/.gitconfig"
+|4,39,2,16,1579541476,"~/.gitconfig"
 -'  2  16  ~/.gitconfig
-|4,39,2,16,1579473971,"~/.gitconfig"
+|4,39,2,16,1579541476,"~/.gitconfig"
 -'  2  16  ~/.gitconfig
-|4,39,2,16,1579473971,"~/.gitconfig"
+|4,39,2,16,1579541476,"~/.gitconfig"
 -'  2  16  ~/.gitconfig
-|4,39,2,16,1579473971,"~/.gitconfig"
+|4,39,2,16,1579541476,"~/.gitconfig"
 -'  2  16  ~/.gitconfig
-|4,39,2,16,1579473971,"~/.gitconfig"
+|4,39,2,16,1579541476,"~/.gitconfig"
 -'  2  16  ~/.gitconfig
-|4,39,2,16,1579473971,"~/.gitconfig"
+|4,39,2,16,1579541476,"~/.gitconfig"
 -'  2  16  ~/.gitconfig
-|4,39,2,16,1579473971,"~/.gitconfig"
+|4,39,2,16,1579541476,"~/.gitconfig"
 -'  2  16  ~/.gitconfig
-|4,39,2,16,1579473971,"~/.gitconfig"
+|4,39,2,16,1579541476,"~/.gitconfig"
 -'  2  16  ~/.gitconfig
-|4,39,2,16,1579473971,"~/.gitconfig"
+|4,39,2,16,1579541476,"~/.gitconfig"
 -'  2  16  ~/.gitconfig
-|4,39,2,16,1579473971,"~/.gitconfig"
+|4,39,2,16,1579541476,"~/.gitconfig"
 -'  2  16  ~/.gitconfig
-|4,39,2,16,1579473971,"~/.gitconfig"
+|4,39,2,16,1579541476,"~/.gitconfig"
 -'  2  16  ~/.gitconfig
-|4,39,2,16,1579473971,"~/.gitconfig"
+|4,39,2,16,1579541476,"~/.gitconfig"
 -'  2  16  ~/.gitconfig
-|4,39,2,16,1579473971,"~/.gitconfig"
+|4,39,2,16,1579541476,"~/.gitconfig"
 -'  2  16  ~/.gitconfig
-|4,39,2,16,1579473971,"~/.gitconfig"
--'  2  16  ~/.gitconfig
-|4,39,2,16,1579473971,"~/.gitconfig"
--'  2  16  ~/.gitconfig
-|4,39,2,16,1579473971,"~/.gitconfig"
--'  2  16  ~/.gitconfig
-|4,39,2,16,1579473971,"~/.gitconfig"
--'  2  16  ~/.gitconfig
-|4,39,2,16,1579473971,"~/.gitconfig"
--'  2  16  ~/.gitconfig
-|4,39,2,16,1579473971,"~/.gitconfig"
--'  2  16  ~/.gitconfig
-|4,39,2,16,1579473971,"~/.gitconfig"
--'  2  16  ~/.gitconfig
-|4,39,2,16,1579473971,"~/.gitconfig"
--'  2  16  ~/.gitconfig
-|4,39,2,16,1579473971,"~/.gitconfig"
--'  2  16  ~/.gitconfig
-|4,39,2,16,1579473971,"~/.gitconfig"
--'  2  16  ~/.gitconfig
-|4,39,2,16,1579473971,"~/.gitconfig"
--'  2  16  ~/.gitconfig
-|4,39,2,16,1579473971,"~/.gitconfig"
--'  2  16  ~/.gitconfig
-|4,39,2,16,1579473971,"~/.gitconfig"
--'  2  16  ~/.gitconfig
-|4,39,2,16,1579473971,"~/.gitconfig"
--'  2  16  ~/.gitconfig
-|4,39,2,16,1579473971,"~/.gitconfig"
--'  2  16  ~/.gitconfig
-|4,39,2,16,1579473971,"~/.gitconfig"
--'  2  16  ~/.gitconfig
-|4,39,2,16,1579473971,"~/.gitconfig"
--'  1  0  ~/.gitconfig
-|4,39,1,0,1579473956,"~/.gitconfig"
--'  1  0  ~/.gitconfig
-|4,39,1,0,1579473956,"~/.gitconfig"
--'  1  0  ~/.gitconfig
-|4,39,1,0,1579473956,"~/.gitconfig"
--'  1  0  ~/.gitconfig
-|4,39,1,0,1579473956,"~/.gitconfig"
+|4,39,2,16,1579541476,"~/.gitconfig"
 
 # History of marks within files (newest to oldest):
+
+> ~/index.html
+	*	1579585953	0
+	"	2	0
+	^	2	0
+	.	1	24
+	+	1	24
+
+> ~/.ssh/authorized_keys
+	*	1579554093	0
+	"	3	417
+	^	3	418
+	.	3	417
+	+	3	417
+
+> /var/lib/jenkins/config.xml
+	*	1579548735	0
+	"	8	19
+	^	8	20
+	.	8	19
+	+	8	19
 
 > ~/.gitconfig
 	*	1579541511	0
@@ -262,11 +287,6 @@
 > ~/config
 	*	1579541231	0
 	"	1	0
-
-> ~/index.html
-	*	1579481289	0
-	"	1	0
-	^	1	0
 
 > ~/git/git1/helloworld.java
 	*	1579477530	0
