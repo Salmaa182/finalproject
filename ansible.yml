@@ -4,7 +4,7 @@
   tasks:
   - name: install apache2
      Apt:
-      name: httpd
+      name: apache2
       state: latest
   - name: create index.html file
     file:
@@ -14,9 +14,9 @@
     lineinfile:
       line: "here is some text"
       path: /var/www/html/index.html
-  - name: start httpd
+  - name: start apache2
     service:
-       name: httpd
+       name: apache2
        state: started
 
 
