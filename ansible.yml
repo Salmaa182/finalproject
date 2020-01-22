@@ -3,7 +3,7 @@
   become: yes
   tasks:
   - name: install apache2
-     Apt :
+     Apt:
       name: httpd
       state: latest
   - name: create index.html file
