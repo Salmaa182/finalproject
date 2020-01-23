@@ -11,6 +11,8 @@
 # hlsearch on (H) or off (h):
 ~h
 # Command Line History (newest to oldest):
+:wq!
+|2,0,1579632669,,"wq!"
 :wq
 |2,0,1579629822,,"wq"
 :q
@@ -29,20 +31,38 @@
 # Registers:
 
 # File marks:
-'0  1  0  ~/index.html
-|4,48,1,0,1579629822,"~/index.html"
-'1  1  0  ~/viminfo
-|4,49,1,0,1579629717,"~/viminfo"
-'2  1  0  ~/.viminfo
-|4,50,1,0,1579629702,"~/.viminfo"
+'0  1  29  ~/finalproject/index.html
+|4,48,1,29,1579632669,"~/finalproject/index.html"
+'1  1  0  ~/index.html
+|4,49,1,0,1579629822,"~/index.html"
+'2  1  0  ~/viminfo
+|4,50,1,0,1579629717,"~/viminfo"
+'3  1  0  ~/.viminfo
+|4,51,1,0,1579629702,"~/.viminfo"
 
 # Jumplist (newest first):
+-'  1  29  ~/finalproject/index.html
+|4,39,1,29,1579632669,"~/finalproject/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1579629822,"~/index.html"
 -'  1  0  ~/index.html
 |4,39,1,0,1579629822,"~/index.html"
 -'  1  0  ~/viminfo
 |4,39,1,0,1579629717,"~/viminfo"
 -'  1  0  ~/viminfo
 |4,39,1,0,1579629717,"~/viminfo"
+-'  1  0  ~/viminfo
+|4,39,1,0,1579629717,"~/viminfo"
+-'  1  0  ~/viminfo
+|4,39,1,0,1579629717,"~/viminfo"
+-'  1  0  ~/.viminfo
+|4,39,1,0,1579629702,"~/.viminfo"
+-'  1  0  ~/.viminfo
+|4,39,1,0,1579629702,"~/.viminfo"
+-'  1  0  ~/.viminfo
+|4,39,1,0,1579629702,"~/.viminfo"
+-'  1  0  ~/.viminfo
+|4,39,1,0,1579629702,"~/.viminfo"
 -'  1  0  ~/.viminfo
 |4,39,1,0,1579629702,"~/.viminfo"
 -'  1  0  ~/.viminfo
@@ -53,6 +73,13 @@
 |4,39,1,0,1579629702,"~/.viminfo"
 
 # History of marks within files (newest to oldest):
+
+> ~/finalproject/index.html
+	*	1579632667	0
+	"	1	29
+	^	1	30
+	.	1	29
+	+	1	29
 
 > ~/index.html
 	*	1579629820	0
