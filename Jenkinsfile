@@ -8,7 +8,7 @@ pipeline {
                    set -x
                    echo "apache installation in progress"
                    cd ${WORKSPACE}
-                   ansible-playbook -u root -l integration ansible.yml
+                   ansible-playbook -u root -l ${SERVER} ansible.yml
                     set +x
 	        ''' 
             }
