@@ -12,10 +12,18 @@
       state: touch
   - name: add web content
     lineinfile:
-      line: "this is ansible file on release branch"
+<<<<<<< HEAD
+      line: "this is ansible file on integration branch"
+>>>>>>> release
       path: /var/www/html/index.html
   - name: start apache2
     service:
       name: apache2
       state: started
+<<<<<<< HEAD
+
+
+
+=======
+>>>>>>> release
 
