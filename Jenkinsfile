@@ -1,18 +1,25 @@
-pipeline {
-    agent any 
-    stages {
-        stage('deployement') { 
-            steps {
-            sh '''
-       	          #!/bin/bash
-                   set -x
-                   echo "apache installation in progress"
-                   cd ${WORKSPACE}
-                   ansible-playbook -u root -l ${SERVER} ansible.yml
-                    set +x
-	        ''' 
-            }
-        }
-        
-      }
-    }
+// Powered by Infostretch 
+
+timestamps {
+
+node () {
+
+	stage ('ansible-prod - Checkout') {
+ 	 checkout([$class: 'GitSCM', branches: [[name: '*/master']], doGenerateSubmoduleConfigurations: false, extensions: [], submoduleCfg: [], userRemoteConfigs: [[credentialsId: '80f3a06e-c792-4eee-a408-57ebaa0aee8f', url: 'https://github.com/Salmaa182/finalproject.git']]]) 
+	}
+	stage ('ansible-prod - Build') {
+ 			// Shell build step
+sh """ 
+#!/bin/bash
+
+set -x
+
+cd ${WORKSPACE}
+
+ansible-playbook -u root -l prod ansible.yml
+
+set +x 
+ """ 
+	}
+}
+}
