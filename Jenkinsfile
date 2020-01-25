@@ -6,13 +6,13 @@ pipeline {
             sh '''
        	          #!/bin/bash
                    set -x
+                   echo "apache installation in progress"
                    cd ${WORKSPACE}
                    ansible-playbook -u root -l integration ansible.yml
                     set +x
-	        '''
-		// 
+	        ''' 
             }
         }
         
-            }
-        }
+      }
+    }
