@@ -12,7 +12,7 @@
       state: touch
   - name: add web content
     lineinfile:
-      line: "this is ansible file on integration branch"
+      line: "this is to check to pipeline"
       path: /var/www/html/index.html
   - name: start apache2
     service:
